@@ -4,6 +4,8 @@
 
 <p align="left">My name is Srushti aka Decoder Damsel! (A cheesy self made accolade as I decode all things tech!)<br>👩‍🎓 I am currently pursuing Master's in Information Management from University of Washington, Seattle.<br>👩‍💻 Back in India, I worked as a Software Engineer at Altran for 4+ years.</p>
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=awe-srush)
+
 ###
 
 <h2 align="left">About me</h2>
