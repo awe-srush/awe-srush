@@ -2,7 +2,7 @@
 ###
 
 <p align="left">
-Srushti aka Decoder Damsel — because if it's broken, I will find out why!<br>
+Srushti aka Decoder Damsel - because if it's broken, I will find out why!<br>
 👩‍🎓 Finishing my MS at the University of Washington, Seattle (4.0 GPA, June 2026)<br>
 🔍 Currently extending <a href="https://github.com/awe-srush/vanir-uw">Google's Vanir Security Scanner</a> with Python vulnerability detection via Tree-Sitter → Google-sponsored capstone with the Android Security Team<br>
 🛠️ Built <a href="https://github.com/awe-srush/spectrace">SpecTrace</a>, a three-stage LLM pipeline that extracts normative rules from RFC specs, localizes code via grep + Tree-Sitter with zero LLM tokens, and runs scoped conformance checks using tool-use against a pre-built code index.<br>
