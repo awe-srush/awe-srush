@@ -1,19 +1,24 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=450&size=50&pause=1000&color=000000&vCenter=true&width=600&lines=Hey+there!+I'm+Srushti.+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 ###
 
-<p align="left">My name is Srushti aka Decoder Damsel! (A cheesy self made accolade as I decode all things tech!)<br>👩‍🎓 I am currently pursuing Master's in Information Management from University of Washington, Seattle.<br>👩‍💻 Back in India, I worked as a Software Engineer at Altran for 4+ years.</p>
+<p align="left">
+Srushti aka Decoder Damsel — because if it's broken, I will find out why!<br>
+👩‍🎓 Finishing my MS at the University of Washington, Seattle (4.0 GPA, June 2026)<br>
+🔍 Currently extending <a href="https://github.com/awe-srush/vanir-uw">Google's Vanir Security Scanner</a> with Python vulnerability detection via Tree-Sitter → Google-sponsored capstone with the Android Security Team<br>
+🛠️ Built <a href="https://github.com/awe-srush/spectrace">SpecTrace</a>, a three-stage LLM pipeline that extracts normative rules from RFC specs, localizes code via grep + Tree-Sitter with zero LLM tokens, and runs scoped conformance checks using tool-use against a pre-built code index.<br>
+💼 Previously at Capgemini Engineering (formerly Altran/Aricent), 5 years building features, leading performance engineering, and solving critical security bugs on Cisco's enterprise voice platform<br>
+☕ Fueled by vanilla sweet cream cold brews, new cuisines, and digital journaling. Always down to chat over a meal!
+</p>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=awe-srush)
 
-###
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=awe-srush&radius=16&height=250)
 
-<h2 align="left">About me</h2>
 
-###
+## 📝 Latest Blog Post
+- [The Case of the Vanishing Memory](https://awe-srush.github.io/whoami/blog-post.html)
 
-<p align="left">I get my dopamine hits from :<br>✨ Tinkering around and creating projects that unearth nuances of programming lore - lookout for my implementation of redis using C++ coming out soon!<br>🎯 I want to utilize the time at my master's learning all the things that I couldn't take up while working.<br>Here are some of my current stints :<br>🦾 I recently completed a course on Data Analysis in R and realized the power of EDA and visualization.<br>🦾 With my level of experience, as much as I love to get my hands dirty with code, I also like to understand the strategy behind a particular product and how one can manage the creation of brilliance. That being said, yes I indulge in the world of product management.<br><br>🎲 Fun fact: I love to chat on meals, in-person or virtually. Feel free to reach out! <a href="https://twitter.com/srushsays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srushsays" height="30" width="40" /></a></p>
-
+## 🎧 What's Vibin?
+⚡ [Lightning by Mehro](https://open.spotify.com/track/5tlMPoBvqEWIV8XOyM6Zcd?si=8uhA11lqTL-J4-f2Gy0eng)
 ###
 
 <h2 align="left">I code with</h2>
@@ -21,6 +26,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/anthropic/191919" height="40" alt="Anthropic logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
