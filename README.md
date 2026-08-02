@@ -6,8 +6,8 @@ Srushti aka Decoder Damsel - because if it's broken, I will find out why!<br>
 👩‍🎓 Finishing my MS at the University of Washington, Seattle (4.0 GPA, June 2026)<br>
 🔍 Currently extending <a href="https://github.com/awe-srush/vanir-uw">Google's Vanir Security Scanner</a> with Python vulnerability detection via Tree-Sitter → Google-sponsored capstone with the Android Security Team<br>
 🧠 Additionally, firing my neurons on open research problems in AI safety, conducting independent research:<br>
-- 🛠️ Built [SpecTrace](https://github.com/awe-srush/spectrace), a three-stage LLM pipeline that extracts normative rules from RFC specs, localizes code via grep + Tree-Sitter with zero LLM tokens, and runs scoped conformance checks using tool-use against a pre-built code index.<br>
-- 🔬 Also poking at model internals: [Qwen Refusal via Jacobian Lens](https://github.com/awe-srush/qwen-refusal-jlens), a mechanistic interpretability study using Anthropic's J-lens and Transluce's WeirdChat dataset to characterize what Qwen3.6-27B's residual stream actually contains at the moment of refusal.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Built <a href="https://github.com/awe-srush/spectrace">SpecTrace</a>, a three-stage LLM pipeline that extracts normative rules from RFC specs, localizes code via grep + Tree-Sitter with zero LLM tokens, and runs scoped conformance checks using tool-use against a pre-built code index<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🔬 Also poking at model internals: <a href="https://github.com/awe-srush/qwen-refusal-jlens">Qwen Refusal via Jacobian Lens</a>, a mechanistic interpretability study using Anthropic's J-lens and Transluce's WeirdChat dataset to characterize what Qwen3.6-27B's residual stream actually contains at the moment of refusal<br>
 
 💼 Previously at Capgemini Engineering (formerly Altran/Aricent), 5 years building features, leading performance engineering, and solving critical security bugs on Cisco's enterprise voice platform<br>
 ☕ Fueled by vanilla sweet cream cold brews, new cuisines, and digital journaling. Always down to chat over a meal!
