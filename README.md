@@ -5,7 +5,10 @@
 Srushti aka Decoder Damsel - because if it's broken, I will find out why!<br>
 👩‍🎓 Finishing my MS at the University of Washington, Seattle (4.0 GPA, June 2026)<br>
 🔍 Currently extending <a href="https://github.com/awe-srush/vanir-uw">Google's Vanir Security Scanner</a> with Python vulnerability detection via Tree-Sitter → Google-sponsored capstone with the Android Security Team<br>
-🛠️ Built <a href="https://github.com/awe-srush/spectrace">SpecTrace</a>, a three-stage LLM pipeline that extracts normative rules from RFC specs, localizes code via grep + Tree-Sitter with zero LLM tokens, and runs scoped conformance checks using tool-use against a pre-built code index.<br>
+🧠 Additionally, firing my neurons on open research problems in AI safety, conducting independent research:<br>
+- 🛠️ Built [SpecTrace](https://github.com/awe-srush/spectrace), a three-stage LLM pipeline that extracts normative rules from RFC specs, localizes code via grep + Tree-Sitter with zero LLM tokens, and runs scoped conformance checks using tool-use against a pre-built code index.<br>
+- 🔬 Also poking at model internals: [Qwen Refusal via Jacobian Lens](https://github.com/awe-srush/qwen-refusal-jlens), a mechanistic interpretability study using Anthropic's J-lens and Transluce's WeirdChat dataset to characterize what Qwen3.6-27B's residual stream actually contains at the moment of refusal.<br>
+
 💼 Previously at Capgemini Engineering (formerly Altran/Aricent), 5 years building features, leading performance engineering, and solving critical security bugs on Cisco's enterprise voice platform<br>
 ☕ Fueled by vanilla sweet cream cold brews, new cuisines, and digital journaling. Always down to chat over a meal!
 </p>
@@ -28,6 +31,21 @@ Srushti aka Decoder Damsel - because if it's broken, I will find out why!<br>
 <div align="left">
   <img src="https://cdn.simpleicons.org/anthropic/191919" height="40" alt="Anthropic logo" />
   <img width="12" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
